@@ -1,4 +1,4 @@
-# generator-amdblah
+# generator-amdblah_kevin
 
 A [Yeoman](http://yeoman.io) generator for starting a project with Express, RequireJS, Backbone+Marionette, Handlebars both on server and client side, i18next, Moment.js and Bootstrap.
 
@@ -26,7 +26,7 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-amdblah from npm, run:
 
 ```
-$ npm install -g generator-amdblah
+$ npm install -g generator-amdblah_kevin
 ```
 
 Finally, initiate the generator:
@@ -56,13 +56,10 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 
 ## Release History
- * 2015-09-15   v0.3.2   Patch released. Bug fixes, Node v4.0.0 compatibility
- * 2014-12-16   v0.3.1   Update dependencies and refine client/server rendering
- * 2014-09-10   v0.3.0   Update dependencies and add Marionette to scaffolding
- * 2014-06-09   v0.2.1   Combines require.js into main.js and add resource cache-busting
- * 2014-02-11   v0.2.0   Remove backbone.layoutmanager in default scaffold
- * 2013-12-23   v0.1.0   Updating to support SlexAxton/require-handlebars-plugin v0.7.0.
+ * 2015-10-06   v0.0.1   create new one to slove problem
 
+
+forked from hsfeng/generator-amdblah
 
 ## License
 
