@@ -1,6 +1,6 @@
 {
-	"name": "generator-amdblah",
-	"version": "0.3.2",
+	"name": "generator-amdblah_kevin",
+	"version": "0.0.1",
 	"description": "Generator for starting a project with Express, RequireJS, Backbone.js + Handlebars both on server and client side, i18next, Moment.js and Bootstrap.",
 	"keywords": [
 		"yeoman-generator",
@@ -11,15 +11,15 @@
 		"requirejs",
 		"Backbone.js"
 	],
-	"homepage": "https://github.com/hsfeng/generator-amdblah",
+	"homepage": "https://github.com/hsfeng/generator-amdblah_kevin",
 	"bugs": {
-		"url": "https://github.com/hsfeng/generator-amdblah/issues"
+		"url": "https://github.com/hsfeng/generator-amdblah_kevin/issues"
 	},
-	"author": "hsfeng <hsfeng@gmail.com> (https://github.com/hsfeng)",
+	"author": "KevinChien <kevin.chien9592@gmail.com> (https://github.com/KevinChien)",
 	"main": "app/index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/hsfeng/generator-amdblah.git"
+		"url": "git://github.com/hsfeng/generator-amdblah_kevin.git"
 	},
 	"scripts": {
 		"test": "mocha"
